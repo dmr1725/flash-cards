@@ -1,0 +1,53 @@
+.card-template {
+    background-color: white;
+    width: 600px;
+    height: 250px;
+    display: inline-block;
+    font-size: large;
+    border-style: dotted;
+  }
+
+.text{
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+
+#question, #answer{
+    height: 50px;
+    width: 300px;
+    
+}
+
+.text-primary{
+    font-size: x-large;
+}
+
+#clear-cards{
+   font-size: xx-large;
+}
+
+.clear-btn{
+    bottom: 0;
+}
+
+#add-card-template{
+    float: auto;
+    font-size: 10px;
+}
+
+#flip{
+    float: right;
+    
+}
+
+.slide{
+    text-align: center;
+    right: 10px;
+}
+
+
+
+
